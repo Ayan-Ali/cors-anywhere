@@ -1,0 +1,21 @@
+{
+  "name": "cors-anywhere",
+  "version": "1.0.0",
+  "author": "Ayan Ali <ayanali1to3@gmail.com> (https://github.com/Ayan-Ali)",
+  "bugs": {
+    "url": "https://github.com/Ayan-Ali/cors-anywhere/issues",
+    "email": "ayanali1to3@gmail.com"
+  },
+  "scripts": {
+    "start": "node index.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/Ayan-Ali/cors-anywhere.git"
+  },
+  "main": "index.js",
+  "dependencies": {
+    "cors-anywhere": "^0.4.4"
+  },
+  "license": "The Unlicense"
+}
